@@ -13,3 +13,5 @@ Hello, GitHub!
 main Hello, world!
 
 main Привет, мир!
+
+main Hello!
