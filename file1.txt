@@ -13,3 +13,5 @@ Hello, GitHub!
 branch1 Hello, world!
 
 branch1 Привет, мир!
+
+branch1 Hello!
